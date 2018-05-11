@@ -1,0 +1,12 @@
+1) Nodes are determined
+-- Nodes are at every mesh? triangle? vertices?
+-- a) Determine if node is walkable
+-- b) Determine if node's position
+-- c) Need Level Generator to determine if vertice is walkable
+----- 1) if tree, if bush, if pole, if barrel, if wall, etc.
+------ REQUIRES: Vertice object
+
+2) Set up a bunch of Nodes
+3) Pathfinding involves traversing through a bunch of nodes
+4) Every time a flock arrives at a waypoint, recalculate the path to the player
+--- Can be optimized, keep track of NumOfNodesTraversed and every time a flock arrives at NumOfWaypoints / 2, recalculate path

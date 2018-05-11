@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 38ea13aadc6ef614b91aa16f920e8446
+timeCreated: 1513162802
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Kreepy Krawly
+  fontNames:
+  - Kreepy Krawly
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
