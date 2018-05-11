@@ -9,13 +9,14 @@ Goal
 For this project you must implement a 3d game using Unity, as a team 
 incorporating at least two of the mechanics from the individual projects: 
 Procedurally generated content, Artificial Intelligence, Augmented and Virtual 
-Reality, Multi-Player or Multi-platform. Throughout the semester I’ve lectured 
+Reality, Multi-Player or Multi-platform. Throughout the semester Iâ€™ve lectured 
 on other topics, (Advertising, Databases, Behavior Trees etc) you may 
 incorporate those as well. 
 All Team must document their project with both a GDD and a TDD. 
 Undergraduate students must create at least 1 issue in the code base. That issue 
 must be solved to completion (with commits to the code base) and documented in 
-the issue tracking system. 
+the issue tracking system. 
+(Incorporated: AI(Boids) and PGC(environment))
 --------------------------------------------------------------------------------
 How To Play
 --------------------------------------------------------------------------------
