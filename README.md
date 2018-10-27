@@ -35,3 +35,10 @@ Known Bugs
 - When the boids respawn after being killed, the tree colliders interfere. This
 causes some of the boids to spawn under the environment. 
 --------------------------------------------------------------------------------
+Title Screen
+--------------------------------------------------------------------------------
+![alt text](https://github.com/agiang96/LegendofXela/blob/master/readmepics/Menu.JPG)
+--------------------------------------------------------------------------------
+Gameplay
+--------------------------------------------------------------------------------
+![alt text](https://github.com/agiang96/LegendofXela/blob/master/readmepics/Gameplay.JPG)
