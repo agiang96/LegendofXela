@@ -2,6 +2,7 @@
 Class: CS596 - Advanced 3D Game Programming
 Author: Shawn Chua, Alexander Giang, Tony La, Michael Yee
 Team Project: The Legend of Xela: Boid of the Wild
+Original Project Link: http://rijeka.sdsu.edu/CS596s18Team1/CS596S18_YUGE_Game
 --------------------------------------------------------------------------------
 --------------------------------------------------------------------------------
 Goal
